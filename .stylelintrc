@@ -142,7 +142,7 @@
     "selector-pseudo-class-case": "lower",
     "selector-pseudo-class-no-unknown": [
       true, {
-        "ignorePseudoClasses": ["extend"]
+        "ignorePseudoClasses": ["extend", "global"]
       }
     ],
     "selector-pseudo-class-parentheses-space-inside": "never",
