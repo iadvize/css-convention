@@ -1,3 +1,5 @@
+# DEPRECATED This documentation has been migrated [here](https://docs.iadvize.io/RFCs/css/).
+
 # OOCSS code standards
 
 The purpose of this document is to provide guidelines for writing CSS. Code conventions are important for the long-term maintainability of code. Most of the time, developers are maintaining code, either their own or someone else’s. The goal is to have everyone’s code look the same, which allows any developer to easily work on another developer’s code.
